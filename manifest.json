@@ -1,0 +1,18 @@
+{
+	"format_version": 1,
+	"header": {
+		"description": "Made By MCBE - Utilities",
+		"name": "BeRP Socket Events",
+		"uuid": "5e6433e2-196b-11ec-9621-0242ac130002",
+		"version": [ 1, 0, 0 ],
+		"min_engine_version": [	1, 2, 6 ]
+	},
+  "modules" : [
+    {
+      "version" : [ 0, 0, 1 ],
+      "type" : "data",
+      "description" : "Made By MCBE - Utilities",
+      "uuid" : "5e6435ea-196b-11ec-9621-0242ac130002"
+    }
+  ]
+}
