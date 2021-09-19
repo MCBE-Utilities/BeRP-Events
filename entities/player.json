@@ -8,11 +8,15 @@
 			"is_experimental": false,
 			"scripts": {
 				"animate": [
-          "punch"
+          "punch",
+          "sneak",
+          "sleep"
 				]
 			},
 			"animations": {
-				"punch": "controller.animation.punch"
+				"punch": "controller.animation.punch",
+        "sneak": "controller.animation.sneak",
+        "sleep": "controller.animation.sleep"
 			}
 
 

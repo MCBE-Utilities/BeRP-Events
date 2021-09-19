@@ -1,0 +1,1 @@
+tellraw @a[tag="berpUser"] {"rawtext":[{"text":"{\"berp\":{\"event\":\"PlayerSleeping\",\"player\":\""},{"selector":"@s"},{"text":"\"}}"}]}
